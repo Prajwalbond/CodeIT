@@ -132,7 +132,7 @@ export default function App() {
               </List>
               <div className="footer">
                 <Typography variant="overline">
-                  Made with &#10084;&#65039; by Arnab{" "}
+                  Made with &#10084;&#65039; by Prajwal{" "}
                 </Typography>
                 <div className="footer_button">
                   <GitHubIcon
@@ -140,7 +140,7 @@ export default function App() {
                     fontSize="large"
                     onClick={(event) =>
                       (window.location.href =
-                        "https://github.com/arnabbiswasofficial07")
+                        "https://github.com/Prajwalbond")
                     }
                   />
                   <LinkedInIcon
@@ -150,7 +150,7 @@ export default function App() {
                     fontSize="large"
                     onClick={(event) =>
                       (window.location.href =
-                        "https://www.linkedin.com/in/arnab-biswas07/")
+                        "https://www.linkedin.com/in/prajwal-bondarde-3546821b0/")
                     }
                   />
                 </div>
